@@ -1,0 +1,6 @@
+{
+  "name": "PakBerlin Connect",
+  "description": "Connecting the Pakistani community in Berlin for friendship, social meetups, and local events.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["Real-time Chat", "User Matching", "Location-based Discovery"]
+}
